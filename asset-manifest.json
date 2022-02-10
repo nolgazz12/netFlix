@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/netFlix.git/static/js/main.b6d5d71d.chunk.js",
+    "main.js.map": "/netFlix.git/static/js/main.b6d5d71d.chunk.js.map",
+    "runtime-main.js": "/netFlix.git/static/js/runtime-main.4f70385c.js",
+    "runtime-main.js.map": "/netFlix.git/static/js/runtime-main.4f70385c.js.map",
+    "static/js/2.ac7f8678.chunk.js": "/netFlix.git/static/js/2.ac7f8678.chunk.js",
+    "static/js/2.ac7f8678.chunk.js.map": "/netFlix.git/static/js/2.ac7f8678.chunk.js.map",
+    "index.html": "/netFlix.git/index.html",
+    "static/js/2.ac7f8678.chunk.js.LICENSE.txt": "/netFlix.git/static/js/2.ac7f8678.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f70385c.js",
+    "static/js/2.ac7f8678.chunk.js",
+    "static/js/main.b6d5d71d.chunk.js"
+  ]
+}
