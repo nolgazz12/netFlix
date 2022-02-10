@@ -96,7 +96,7 @@ const BigMovie = styled(motion.div)`
 
 const BigCover = styled.div<{ bgPhoto: string }>`
     width: 100%;
-    height: 400px;
+    height: 500px;
     background-size: cover;
     background-position: center center;
     background-image: linear-gradient(to top, black, transparent), url(${props => props.bgPhoto});
